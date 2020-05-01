@@ -4,7 +4,7 @@
 }
 html, body{
   min-height: 100vh;
-  background-color: blue;
+  background-color: #006600;
 }
 form{
   display: grid;
